@@ -1,0 +1,5 @@
+('QUEENS', datetime.timedelta(-8277239, 33481))
+('BROOKLYN', datetime.timedelta(-10492730, 20820))
+('STATEN ISLAND', datetime.timedelta(-1585571, 32760))
+('BRONX', datetime.timedelta(-6224366, 6060))
+('MANHATTAN', datetime.timedelta(-7893097, 46980))
